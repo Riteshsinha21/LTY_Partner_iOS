@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "48A94D60-F290-4E32-A511-90B45C68B1F1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F7C026A-C709-4FCE-87D1-108F81DA3A52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LTY_Partner/Controllers/NotificationVC/Controller/NotificationVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8B4AD61-11E1-4079-A1B3-7D751791EF06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LTY_Partner/APIServices/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "LoginApi(params:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C13E13F-0F02-4112-9F62-D4D74496507E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LTY_Partner/APIServices/ServerClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "sendMultipartRequestToServer(urlString:fileName:sendJson:imageUrl:successBlock:errorBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C13E13F-0F02-4112-9F62-D4D74496507E - ea6b4250cb597af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LTY_Partner.ServerClass.sendMultipartRequestToServer(urlString: Swift.String, fileName: Swift.String, sendJson: Swift.Dictionary&lt;Swift.String, Any&gt;, imageUrl: Swift.Optional&lt;Foundation.URL&gt;, successBlock: (SwiftyJSON.JSON) -&gt; (), errorBlock: (__C.NSError) -&gt; ()) -&gt; ()"
+                  moduleName = "LTY_Partner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chawtech/Desktop/LTY-Partner/lty_partner_ios/LTY_Partner/APIServices/ServerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "1C13E13F-0F02-4112-9F62-D4D74496507E - ea6b4250cb597af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LTY_Partner.ServerClass.sendMultipartRequestToServer(urlString: Swift.String, fileName: Swift.String, sendJson: Swift.Dictionary&lt;Swift.String, Any&gt;, imageUrl: Swift.Optional&lt;Foundation.URL&gt;, successBlock: (SwiftyJSON.JSON) -&gt; (), errorBlock: (__C.NSError) -&gt; ()) -&gt; ()"
+                  moduleName = "LTY_Partner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chawtech/Desktop/LTY-Partner/lty_partner_ios/LTY_Partner/APIServices/ServerClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
